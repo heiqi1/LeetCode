@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
         TreeSet<Integer> set=new TreeSet<>();
         for(int i=0;i<nums.length;i++){
