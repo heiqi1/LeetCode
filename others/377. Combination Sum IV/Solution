@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int combinationSum4(int[] nums, int target) {
         Arrays.sort(nums);
         int[] dp=new int[target+1];
