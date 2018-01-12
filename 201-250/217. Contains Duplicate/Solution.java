@@ -1,5 +1,5 @@
 
-class Solution {
+public class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set=new HashSet<>();
         if (nums==null||nums.length==0)
