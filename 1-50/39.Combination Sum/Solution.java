@@ -1,4 +1,4 @@
-public class combinationSum {
+public class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> result=new LinkedList<>();
         List<Integer> temp=new LinkedList<>();
