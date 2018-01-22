@@ -1,4 +1,4 @@
-public class Solution {
+public class Solution1 {
     public int[] twoSum(int[] nums, int target) {
         int left = 0, right = nums.length - 1;
         while(left<right){
